@@ -3,8 +3,11 @@ The Crime Analysis and Prediction System is a data-driven approach to analyzing 
 
 # Features
 ~ Temporal Analysis: Analyze crime trends over time to identify patterns and seasonal variations.
+
 ~ Geospatial Analysis: Identify crime hotspots and areas with higher crime rates using geospatial techniques.
+
 ~ Crime Type Analysis: Analyze the frequency and severity of different types of crimes.
+
 ~ Arrest and Domestic Incident Analysis: Assess arrest rates and analyze domestic-related incidents.
 ~ Location-Specific Analysis: Investigate common crime locations and localized crime patterns.
 ~ Seasonal and Weather Impact Analysis: Examine the impact of seasons and weather conditions on crime occurrences.
